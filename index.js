@@ -13,7 +13,7 @@ const password = process.env.DB_PASSWORD;
 connected(username,password)
 
 const corsOptions ={
-    origin:'https://glittering-bublanina-cf04b0.netlify.app', 
+    origin:'https://strong-kheer-29bb17.netlify.app', 
     credentials:true,            //access-control-allow-credentials:true
     
 }
